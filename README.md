@@ -89,4 +89,4 @@ This project analyzes housing market trends across selected western U.S. states,
   - Shareable Tableau Public link included in the notebook under:
   ```markdown
   # Tableau Workbook
-  Tableau Public Link: [https://public.tableau.com/views/Zillowhomevalues/differenceinmedianHomeValueperstate?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+https://public.tableau.com/views/Zillowhomevalues/differenceinmedianHomeValueperstate?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
