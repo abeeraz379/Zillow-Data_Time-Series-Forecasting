@@ -67,7 +67,8 @@ This project analyzes housing market trends across selected western U.S. states,
 - Include annotation identifying the state with the largest increase.
   <img width="1446" height="765" alt="Screenshot 2026-07-18 114108" src="https://github.com/user-attachments/assets/ca566da2-f1c9-49ab-a5b4-d02b0d020576" />
 
-#### Story 3: Most Expensive ZIP Codes82- Highlight table of the Top 20 most expensive ZIP codes.
+#### Story 3: Most Expensive ZIP Codes
+- Highlight table of the Top 20 most expensive ZIP codes.
 - Filtered to December 2020.
 - Display:
 - State
