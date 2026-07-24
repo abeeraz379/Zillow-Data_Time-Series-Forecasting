@@ -64,6 +64,7 @@ This project analyzes housing market trends across selected western U.S. states,
 #### Story 2: Home Value Growth by State
 - Line chart showing percentage change in home values from 2010–2020.
 - Compare trends across CA, WA, OR, AZ, and NV.
+- CA: California / WA: Washington / OR: Oregon/ AZ: Arizona/ NV: Nevada 
 - Include annotation identifying the state with the largest increase.
   <img width="1446" height="765" alt="Screenshot 2026-07-18 114108" src="https://github.com/user-attachments/assets/ca566da2-f1c9-49ab-a5b4-d02b0d020576" />
 
